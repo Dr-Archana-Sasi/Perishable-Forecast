@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Stockout-Aware Probabilistic Forecasting and Replenishment for Perishable Goods"
+authors:
+  - family-names: "Sasi"
+    given-names: "Archana"
+version: 1.0.0
+date-released: 2026-10-14
+license: MIT
+repository-code: "https://github.com/Dr-Archana-Sasi/perishable-forecast"
+keywords:
+  - demand forecasting
+  - censored demand
+  - perishable inventory
+  - probabilistic forecasting
+  - fresh retail

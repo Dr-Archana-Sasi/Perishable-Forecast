@@ -1,0 +1,6 @@
+method,validation_days,WAPE,bias
+Observed sales (no recovery),491908,0.3858,-0.3858
+Global profile,491908,0.2187,-0.0102
+Category profile,491908,0.2141,-0.0094
+Series profile,491908,0.2103,-0.0094
+Shrunk series profile (proposed),491908,0.2099,-0.0099

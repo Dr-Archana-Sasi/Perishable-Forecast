@@ -1,0 +1,21 @@
+method,stockout_hours,days,WAPE,bias
+Observed sales (no recovery),1-4,151716,0.0969,-0.0969
+Observed sales (no recovery),5-8,172703,0.3183,-0.3183
+Observed sales (no recovery),9-12,99381,0.585,-0.585
+Observed sales (no recovery),13-16,68108,0.9081,-0.9081
+Global profile,1-4,151716,0.0904,0.0
+Global profile,5-8,172703,0.2157,-0.0009
+Global profile,9-12,99381,0.3488,-0.0101
+Global profile,13-16,68108,0.3211,-0.0571
+Category profile,1-4,151716,0.0854,0.0
+Category profile,5-8,172703,0.207,-0.0006
+Category profile,9-12,99381,0.3488,-0.0065
+Category profile,13-16,68108,0.3218,-0.0567
+Series profile,1-4,151716,0.0849,0.0003
+Series profile,5-8,172703,0.204,0.0024
+Series profile,9-12,99381,0.3351,-0.012
+Series profile,13-16,68108,0.323,-0.0574
+Shrunk series profile (proposed),1-4,151716,0.0845,-0.0
+Shrunk series profile (proposed),5-8,172703,0.2026,0.0004
+Shrunk series profile (proposed),9-12,99381,0.3363,-0.0107
+Shrunk series profile (proposed),13-16,68108,0.3226,-0.0568

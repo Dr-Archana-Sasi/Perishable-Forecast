@@ -1,0 +1,4 @@
+split,store_product_days,censored_days_pct,recovered_by_projection_pct,recovered_by_fallback_pct,demand_uplift_all_days_pct,demand_uplift_censored_days_pct
+train,4500000,44.267,37.229,7.038,22.582,49.511
+eval,350000,40.982,34.848,6.135,19.13,49.3
+all,4850000,44.03,37.057,6.973,22.289,49.496

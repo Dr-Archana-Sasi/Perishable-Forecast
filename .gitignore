@@ -1,0 +1,9 @@
+# Data files are large; they are re-created by src/download_data.py
+data/raw/
+data/processed/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store

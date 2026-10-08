@@ -1,0 +1,14 @@
+variable,level,days,mean_rel_sales
+discount_bin,<0.7,165981,1.4033
+discount_bin,0.7-0.8,239501,1.1504
+discount_bin,0.8-0.9,455156,1.0394
+discount_bin,0.9-1.0,401202,1.0691
+discount_bin,none,1242597,0.907
+holiday_flag,No,1646741,0.9396
+holiday_flag,Yes,861253,1.1558
+activity_flag,No,1596869,0.948
+activity_flag,Yes,911125,1.1292
+precip_bin,Q1 (driest),626999,0.9951
+precip_bin,Q2,626998,0.9949
+precip_bin,Q3,626998,0.9806
+precip_bin,Q4 (wettest),626999,1.0849

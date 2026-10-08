@@ -1,0 +1,11 @@
+truth,model_A,model_B,total_cost_change_A_vs_B_pct,share_series_A_cheaper,share_series_equal,wilcoxon_p
+Recovered demand,LightGBM (Recovered demand),LightGBM (Recorded sales),-11.513851006791997,0.67064,2e-05,0.0
+Recovered demand,ETS (Recovered demand),ETS (Recorded sales),-8.03685201352925,0.572,0.0,0.0
+Recovered demand,Empirical-28 (Recovered demand),Empirical-28 (Recorded sales),-9.219572977014256,0.57648,0.1781,0.0
+Recovered demand,LightGBM (Recovered demand),ETS (Recovered demand),-9.989966704656151,0.63438,0.0,0.0
+Recovered demand,LightGBM (Recovered demand),Empirical-28 (Recovered demand),-18.200412120101205,0.70396,0.0,0.0
+Recorded sales (lower bound),LightGBM (Recovered demand),LightGBM (Recorded sales),2.685658905509958,0.48934,2e-05,2.941482999848909e-24
+Recorded sales (lower bound),ETS (Recovered demand),ETS (Recorded sales),8.37446842195022,0.39394,0.0,0.0
+Recorded sales (lower bound),Empirical-28 (Recovered demand),Empirical-28 (Recorded sales),-2.0955847692217477,0.43906,0.179,5.870652577857129e-52
+Recorded sales (lower bound),LightGBM (Recovered demand),ETS (Recovered demand),-14.697787117202976,0.6928,0.0,0.0
+Recorded sales (lower bound),LightGBM (Recovered demand),Empirical-28 (Recovered demand),-13.806625809419259,0.65798,0.0,0.0

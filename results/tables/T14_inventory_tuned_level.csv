@@ -1,0 +1,241 @@
+truth,unit_cost,shelf_life_days,model,trained_on,best_order_level,min_cost_per_unit_demand
+Recovered demand,0.3,1,Seasonal naive,Recovered demand,0.1,0.1986
+Recovered demand,0.3,1,Seasonal naive,Recorded sales,0.1,0.2352
+Recovered demand,0.3,1,Empirical-28,Recovered demand,0.8,0.1737
+Recovered demand,0.3,1,Empirical-28,Recorded sales,0.9,0.1794
+Recovered demand,0.3,1,ETS,Recovered demand,0.6,0.1572
+Recovered demand,0.3,1,ETS,Recorded sales,0.8,0.1684
+Recovered demand,0.3,1,LightGBM,Recovered demand,0.7,0.1418
+Recovered demand,0.3,1,LightGBM,Recorded sales,0.9,0.1491
+Recovered demand,0.3,2,Seasonal naive,Recovered demand,0.1,0.1477
+Recovered demand,0.3,2,Seasonal naive,Recorded sales,0.1,0.2015
+Recovered demand,0.3,2,Empirical-28,Recovered demand,0.9,0.0867
+Recovered demand,0.3,2,Empirical-28,Recorded sales,0.9,0.1124
+Recovered demand,0.3,2,ETS,Recovered demand,0.9,0.074
+Recovered demand,0.3,2,ETS,Recorded sales,0.9,0.0932
+Recovered demand,0.3,2,LightGBM,Recovered demand,0.9,0.0596
+Recovered demand,0.3,2,LightGBM,Recorded sales,0.9,0.088
+Recovered demand,0.3,3,Seasonal naive,Recovered demand,0.1,0.1417
+Recovered demand,0.3,3,Seasonal naive,Recorded sales,0.1,0.1988
+Recovered demand,0.3,3,Empirical-28,Recovered demand,0.9,0.0759
+Recovered demand,0.3,3,Empirical-28,Recorded sales,0.9,0.1064
+Recovered demand,0.3,3,ETS,Recovered demand,0.9,0.0614
+Recovered demand,0.3,3,ETS,Recorded sales,0.9,0.0862
+Recovered demand,0.3,3,LightGBM,Recovered demand,0.9,0.0515
+Recovered demand,0.3,3,LightGBM,Recorded sales,0.9,0.0844
+Recovered demand,0.4,1,Seasonal naive,Recovered demand,0.1,0.1993
+Recovered demand,0.4,1,Seasonal naive,Recorded sales,0.1,0.2194
+Recovered demand,0.4,1,Empirical-28,Recovered demand,0.7,0.1805
+Recovered demand,0.4,1,Empirical-28,Recorded sales,0.8,0.1866
+Recovered demand,0.4,1,ETS,Recovered demand,0.6,0.1659
+Recovered demand,0.4,1,ETS,Recorded sales,0.7,0.176
+Recovered demand,0.4,1,LightGBM,Recovered demand,0.6,0.1492
+Recovered demand,0.4,1,LightGBM,Recorded sales,0.8,0.1567
+Recovered demand,0.4,2,Seasonal naive,Recovered demand,0.1,0.1339
+Recovered demand,0.4,2,Seasonal naive,Recorded sales,0.1,0.1766
+Recovered demand,0.4,2,Empirical-28,Recovered demand,0.9,0.0912
+Recovered demand,0.4,2,Empirical-28,Recorded sales,0.9,0.1067
+Recovered demand,0.4,2,ETS,Recovered demand,0.8,0.0801
+Recovered demand,0.4,2,ETS,Recorded sales,0.9,0.0919
+Recovered demand,0.4,2,LightGBM,Recovered demand,0.9,0.0636
+Recovered demand,0.4,2,LightGBM,Recorded sales,0.9,0.0824
+Recovered demand,0.4,3,Seasonal naive,Recovered demand,0.1,0.1264
+Recovered demand,0.4,3,Seasonal naive,Recorded sales,0.1,0.1733
+Recovered demand,0.4,3,Empirical-28,Recovered demand,0.9,0.0769
+Recovered demand,0.4,3,Empirical-28,Recorded sales,0.9,0.0987
+Recovered demand,0.4,3,ETS,Recovered demand,0.9,0.0665
+Recovered demand,0.4,3,ETS,Recorded sales,0.9,0.0826
+Recovered demand,0.4,3,LightGBM,Recovered demand,0.9,0.0528
+Recovered demand,0.4,3,LightGBM,Recorded sales,0.9,0.0776
+Recovered demand,0.5,1,Seasonal naive,Recovered demand,0.1,0.2
+Recovered demand,0.5,1,Seasonal naive,Recorded sales,0.1,0.2036
+Recovered demand,0.5,1,Empirical-28,Recovered demand,0.6,0.177
+Recovered demand,0.5,1,Empirical-28,Recorded sales,0.7,0.1829
+Recovered demand,0.5,1,ETS,Recovered demand,0.5,0.1644
+Recovered demand,0.5,1,ETS,Recorded sales,0.6,0.1728
+Recovered demand,0.5,1,LightGBM,Recovered demand,0.5,0.148
+Recovered demand,0.5,1,LightGBM,Recorded sales,0.7,0.1553
+Recovered demand,0.5,2,Seasonal naive,Recovered demand,0.1,0.1201
+Recovered demand,0.5,2,Seasonal naive,Recorded sales,0.1,0.1518
+Recovered demand,0.5,2,Empirical-28,Recovered demand,0.8,0.0929
+Recovered demand,0.5,2,Empirical-28,Recorded sales,0.9,0.101
+Recovered demand,0.5,2,ETS,Recovered demand,0.7,0.0824
+Recovered demand,0.5,2,ETS,Recorded sales,0.9,0.0907
+Recovered demand,0.5,2,LightGBM,Recovered demand,0.8,0.0661
+Recovered demand,0.5,2,LightGBM,Recorded sales,0.9,0.0768
+Recovered demand,0.5,3,Seasonal naive,Recovered demand,0.1,0.1111
+Recovered demand,0.5,3,Seasonal naive,Recorded sales,0.1,0.1477
+Recovered demand,0.5,3,Empirical-28,Recovered demand,0.9,0.0778
+Recovered demand,0.5,3,Empirical-28,Recorded sales,0.9,0.0911
+Recovered demand,0.5,3,ETS,Recovered demand,0.8,0.0692
+Recovered demand,0.5,3,ETS,Recorded sales,0.9,0.0791
+Recovered demand,0.5,3,LightGBM,Recovered demand,0.9,0.054
+Recovered demand,0.5,3,LightGBM,Recorded sales,0.9,0.0709
+Recovered demand,0.6,1,Seasonal naive,Recovered demand,0.1,0.2008
+Recovered demand,0.6,1,Seasonal naive,Recorded sales,0.1,0.1877
+Recovered demand,0.6,1,Empirical-28,Recovered demand,0.5,0.1641
+Recovered demand,0.6,1,Empirical-28,Recorded sales,0.6,0.1692
+Recovered demand,0.6,1,ETS,Recovered demand,0.4,0.1541
+Recovered demand,0.6,1,ETS,Recorded sales,0.5,0.1608
+Recovered demand,0.6,1,LightGBM,Recovered demand,0.4,0.1375
+Recovered demand,0.6,1,LightGBM,Recorded sales,0.6,0.1448
+Recovered demand,0.6,2,Seasonal naive,Recovered demand,0.1,0.1064
+Recovered demand,0.6,2,Seasonal naive,Recorded sales,0.1,0.1269
+Recovered demand,0.6,2,Empirical-28,Recovered demand,0.8,0.0893
+Recovered demand,0.6,2,Empirical-28,Recorded sales,0.9,0.0953
+Recovered demand,0.6,2,ETS,Recovered demand,0.7,0.0789
+Recovered demand,0.6,2,ETS,Recorded sales,0.8,0.0876
+Recovered demand,0.6,2,LightGBM,Recovered demand,0.8,0.0644
+Recovered demand,0.6,2,LightGBM,Recorded sales,0.9,0.0712
+Recovered demand,0.6,3,Seasonal naive,Recovered demand,0.1,0.0957
+Recovered demand,0.6,3,Seasonal naive,Recorded sales,0.1,0.1222
+Recovered demand,0.6,3,Empirical-28,Recovered demand,0.8,0.0771
+Recovered demand,0.6,3,Empirical-28,Recorded sales,0.9,0.0834
+Recovered demand,0.6,3,ETS,Recovered demand,0.7,0.0689
+Recovered demand,0.6,3,ETS,Recorded sales,0.9,0.0755
+Recovered demand,0.6,3,LightGBM,Recovered demand,0.9,0.0553
+Recovered demand,0.6,3,LightGBM,Recorded sales,0.9,0.0641
+Recovered demand,0.7,1,Seasonal naive,Recovered demand,0.1,0.2015
+Recovered demand,0.7,1,Seasonal naive,Recorded sales,0.1,0.1719
+Recovered demand,0.7,1,Empirical-28,Recovered demand,0.3,0.1409
+Recovered demand,0.7,1,Empirical-28,Recorded sales,0.5,0.146
+Recovered demand,0.7,1,ETS,Recovered demand,0.3,0.1357
+Recovered demand,0.7,1,ETS,Recorded sales,0.4,0.1397
+Recovered demand,0.7,1,LightGBM,Recovered demand,0.3,0.1192
+Recovered demand,0.7,1,LightGBM,Recorded sales,0.5,0.1266
+Recovered demand,0.7,2,Seasonal naive,Recovered demand,0.1,0.0926
+Recovered demand,0.7,2,Seasonal naive,Recorded sales,0.1,0.102
+Recovered demand,0.7,2,Empirical-28,Recovered demand,0.7,0.0807
+Recovered demand,0.7,2,Empirical-28,Recorded sales,0.8,0.0857
+Recovered demand,0.7,2,ETS,Recovered demand,0.6,0.0716
+Recovered demand,0.7,2,ETS,Recorded sales,0.7,0.0796
+Recovered demand,0.7,2,LightGBM,Recovered demand,0.7,0.0595
+Recovered demand,0.7,2,LightGBM,Recorded sales,0.8,0.0651
+Recovered demand,0.7,3,Seasonal naive,Recovered demand,0.1,0.0804
+Recovered demand,0.7,3,Seasonal naive,Recorded sales,0.1,0.0966
+Recovered demand,0.7,3,Empirical-28,Recovered demand,0.8,0.0715
+Recovered demand,0.7,3,Empirical-28,Recorded sales,0.9,0.0757
+Recovered demand,0.7,3,ETS,Recovered demand,0.7,0.0637
+Recovered demand,0.7,3,ETS,Recorded sales,0.8,0.0696
+Recovered demand,0.7,3,LightGBM,Recovered demand,0.8,0.0521
+Recovered demand,0.7,3,LightGBM,Recorded sales,0.9,0.0573
+Recorded sales (lower bound),0.3,1,Seasonal naive,Recovered demand,0.1,0.1955
+Recorded sales (lower bound),0.3,1,Seasonal naive,Recorded sales,0.1,0.2086
+Recorded sales (lower bound),0.3,1,Empirical-28,Recovered demand,0.7,0.1737
+Recorded sales (lower bound),0.3,1,Empirical-28,Recorded sales,0.8,0.1753
+Recorded sales (lower bound),0.3,1,ETS,Recovered demand,0.5,0.1595
+Recorded sales (lower bound),0.3,1,ETS,Recorded sales,0.7,0.1616
+Recorded sales (lower bound),0.3,1,LightGBM,Recovered demand,0.6,0.1414
+Recorded sales (lower bound),0.3,1,LightGBM,Recorded sales,0.8,0.1433
+Recorded sales (lower bound),0.3,2,Seasonal naive,Recovered demand,0.1,0.1191
+Recorded sales (lower bound),0.3,2,Seasonal naive,Recorded sales,0.1,0.1563
+Recorded sales (lower bound),0.3,2,Empirical-28,Recovered demand,0.8,0.081
+Recorded sales (lower bound),0.3,2,Empirical-28,Recorded sales,0.9,0.0865
+Recorded sales (lower bound),0.3,2,ETS,Recovered demand,0.7,0.0708
+Recorded sales (lower bound),0.3,2,ETS,Recorded sales,0.9,0.0737
+Recorded sales (lower bound),0.3,2,LightGBM,Recovered demand,0.8,0.0564
+Recorded sales (lower bound),0.3,2,LightGBM,Recorded sales,0.9,0.0609
+Recorded sales (lower bound),0.3,3,Seasonal naive,Recovered demand,0.1,0.107
+Recorded sales (lower bound),0.3,3,Seasonal naive,Recorded sales,0.1,0.1498
+Recorded sales (lower bound),0.3,3,Empirical-28,Recovered demand,0.9,0.0619
+Recorded sales (lower bound),0.3,3,Empirical-28,Recorded sales,0.9,0.075
+Recorded sales (lower bound),0.3,3,ETS,Recovered demand,0.8,0.0544
+Recorded sales (lower bound),0.3,3,ETS,Recorded sales,0.9,0.0603
+Recorded sales (lower bound),0.3,3,LightGBM,Recovered demand,0.9,0.0429
+Recorded sales (lower bound),0.3,3,LightGBM,Recorded sales,0.9,0.0522
+Recorded sales (lower bound),0.4,1,Seasonal naive,Recovered demand,0.1,0.2155
+Recorded sales (lower bound),0.4,1,Seasonal naive,Recorded sales,0.1,0.2089
+Recorded sales (lower bound),0.4,1,Empirical-28,Recovered demand,0.6,0.1879
+Recorded sales (lower bound),0.4,1,Empirical-28,Recorded sales,0.7,0.1898
+Recorded sales (lower bound),0.4,1,ETS,Recovered demand,0.5,0.1763
+Recorded sales (lower bound),0.4,1,ETS,Recorded sales,0.6,0.1752
+Recorded sales (lower bound),0.4,1,LightGBM,Recovered demand,0.5,0.1556
+Recorded sales (lower bound),0.4,1,LightGBM,Recorded sales,0.7,0.1569
+Recorded sales (lower bound),0.4,2,Seasonal naive,Recovered demand,0.1,0.1166
+Recorded sales (lower bound),0.4,2,Seasonal naive,Recorded sales,0.1,0.1424
+Recorded sales (lower bound),0.4,2,Empirical-28,Recovered demand,0.8,0.0888
+Recorded sales (lower bound),0.4,2,Empirical-28,Recorded sales,0.9,0.0925
+Recorded sales (lower bound),0.4,2,ETS,Recovered demand,0.7,0.0785
+Recorded sales (lower bound),0.4,2,ETS,Recorded sales,0.8,0.084
+Recorded sales (lower bound),0.4,2,LightGBM,Recovered demand,0.8,0.0652
+Recorded sales (lower bound),0.4,2,LightGBM,Recorded sales,0.9,0.0664
+Recorded sales (lower bound),0.4,3,Seasonal naive,Recovered demand,0.1,0.1013
+Recorded sales (lower bound),0.4,3,Seasonal naive,Recorded sales,0.1,0.1344
+Recorded sales (lower bound),0.4,3,Empirical-28,Recovered demand,0.9,0.0721
+Recorded sales (lower bound),0.4,3,Empirical-28,Recorded sales,0.9,0.0771
+Recorded sales (lower bound),0.4,3,ETS,Recovered demand,0.7,0.0636
+Recorded sales (lower bound),0.4,3,ETS,Recorded sales,0.9,0.0666
+Recorded sales (lower bound),0.4,3,LightGBM,Recovered demand,0.8,0.0501
+Recorded sales (lower bound),0.4,3,LightGBM,Recorded sales,0.9,0.0548
+Recorded sales (lower bound),0.5,1,Seasonal naive,Recovered demand,0.1,0.2355
+Recorded sales (lower bound),0.5,1,Seasonal naive,Recorded sales,0.1,0.2092
+Recorded sales (lower bound),0.5,1,Empirical-28,Recovered demand,0.5,0.191
+Recorded sales (lower bound),0.5,1,Empirical-28,Recorded sales,0.6,0.1918
+Recorded sales (lower bound),0.5,1,ETS,Recovered demand,0.4,0.1812
+Recorded sales (lower bound),0.5,1,ETS,Recorded sales,0.5,0.1781
+Recorded sales (lower bound),0.5,1,LightGBM,Recovered demand,0.4,0.1596
+Recorded sales (lower bound),0.5,1,LightGBM,Recorded sales,0.5,0.1604
+Recorded sales (lower bound),0.5,2,Seasonal naive,Recovered demand,0.1,0.1142
+Recorded sales (lower bound),0.5,2,Seasonal naive,Recorded sales,0.1,0.1285
+Recorded sales (lower bound),0.5,2,Empirical-28,Recovered demand,0.7,0.0963
+Recorded sales (lower bound),0.5,2,Empirical-28,Recorded sales,0.9,0.0985
+Recorded sales (lower bound),0.5,2,ETS,Recovered demand,0.6,0.0837
+Recorded sales (lower bound),0.5,2,ETS,Recorded sales,0.8,0.0884
+Recorded sales (lower bound),0.5,2,LightGBM,Recovered demand,0.7,0.0695
+Recorded sales (lower bound),0.5,2,LightGBM,Recorded sales,0.9,0.0719
+Recorded sales (lower bound),0.5,3,Seasonal naive,Recovered demand,0.1,0.0956
+Recorded sales (lower bound),0.5,3,Seasonal naive,Recorded sales,0.1,0.119
+Recorded sales (lower bound),0.5,3,Empirical-28,Recovered demand,0.8,0.0761
+Recorded sales (lower bound),0.5,3,Empirical-28,Recorded sales,0.9,0.0793
+Recorded sales (lower bound),0.5,3,ETS,Recovered demand,0.7,0.0677
+Recorded sales (lower bound),0.5,3,ETS,Recorded sales,0.8,0.0725
+Recorded sales (lower bound),0.5,3,LightGBM,Recovered demand,0.8,0.0552
+Recorded sales (lower bound),0.5,3,LightGBM,Recorded sales,0.9,0.0574
+Recorded sales (lower bound),0.6,1,Seasonal naive,Recovered demand,0.1,0.2555
+Recorded sales (lower bound),0.6,1,Seasonal naive,Recorded sales,0.1,0.2094
+Recorded sales (lower bound),0.6,1,Empirical-28,Recovered demand,0.3,0.1822
+Recorded sales (lower bound),0.6,1,Empirical-28,Recorded sales,0.5,0.1825
+Recorded sales (lower bound),0.6,1,ETS,Recovered demand,0.3,0.1772
+Recorded sales (lower bound),0.6,1,ETS,Recorded sales,0.4,0.1706
+Recorded sales (lower bound),0.6,1,LightGBM,Recovered demand,0.3,0.1551
+Recorded sales (lower bound),0.6,1,LightGBM,Recorded sales,0.4,0.1534
+Recorded sales (lower bound),0.6,2,Seasonal naive,Recovered demand,0.1,0.1117
+Recorded sales (lower bound),0.6,2,Seasonal naive,Recorded sales,0.1,0.1145
+Recorded sales (lower bound),0.6,2,Empirical-28,Recovered demand,0.7,0.0941
+Recorded sales (lower bound),0.6,2,Empirical-28,Recorded sales,0.8,0.0975
+Recorded sales (lower bound),0.6,2,ETS,Recovered demand,0.6,0.0861
+Recorded sales (lower bound),0.6,2,ETS,Recorded sales,0.7,0.0885
+Recorded sales (lower bound),0.6,2,LightGBM,Recovered demand,0.6,0.0713
+Recorded sales (lower bound),0.6,2,LightGBM,Recorded sales,0.8,0.0723
+Recorded sales (lower bound),0.6,3,Seasonal naive,Recovered demand,0.1,0.0898
+Recorded sales (lower bound),0.6,3,Seasonal naive,Recorded sales,0.1,0.1036
+Recorded sales (lower bound),0.6,3,Empirical-28,Recovered demand,0.8,0.0798
+Recorded sales (lower bound),0.6,3,Empirical-28,Recorded sales,0.9,0.0815
+Recorded sales (lower bound),0.6,3,ETS,Recovered demand,0.6,0.0698
+Recorded sales (lower bound),0.6,3,ETS,Recorded sales,0.8,0.0737
+Recorded sales (lower bound),0.6,3,LightGBM,Recovered demand,0.7,0.058
+Recorded sales (lower bound),0.6,3,LightGBM,Recorded sales,0.9,0.06
+Recorded sales (lower bound),0.7,1,Seasonal naive,Recovered demand,0.1,0.2755
+Recorded sales (lower bound),0.7,1,Seasonal naive,Recorded sales,0.1,0.2097
+Recorded sales (lower bound),0.7,1,Empirical-28,Recovered demand,0.2,0.1617
+Recorded sales (lower bound),0.7,1,Empirical-28,Recorded sales,0.3,0.1604
+Recorded sales (lower bound),0.7,1,ETS,Recovered demand,0.2,0.1609
+Recorded sales (lower bound),0.7,1,ETS,Recorded sales,0.3,0.1529
+Recorded sales (lower bound),0.7,1,LightGBM,Recovered demand,0.2,0.14
+Recorded sales (lower bound),0.7,1,LightGBM,Recorded sales,0.3,0.1372
+Recorded sales (lower bound),0.7,2,Seasonal naive,Recovered demand,0.1,0.1092
+Recorded sales (lower bound),0.7,2,Seasonal naive,Recorded sales,0.1,0.1006
+Recorded sales (lower bound),0.7,2,Empirical-28,Recovered demand,0.6,0.0892
+Recorded sales (lower bound),0.7,2,Empirical-28,Recorded sales,0.7,0.0916
+Recorded sales (lower bound),0.7,2,ETS,Recovered demand,0.5,0.0826
+Recorded sales (lower bound),0.7,2,ETS,Recorded sales,0.6,0.0836
+Recorded sales (lower bound),0.7,2,LightGBM,Recovered demand,0.6,0.0693
+Recorded sales (lower bound),0.7,2,LightGBM,Recorded sales,0.7,0.0697
+Recorded sales (lower bound),0.7,3,Seasonal naive,Recovered demand,0.1,0.0841
+Recorded sales (lower bound),0.7,3,Seasonal naive,Recorded sales,0.1,0.0882
+Recorded sales (lower bound),0.7,3,Empirical-28,Recovered demand,0.7,0.0755
+Recorded sales (lower bound),0.7,3,Empirical-28,Recorded sales,0.8,0.0779
+Recorded sales (lower bound),0.7,3,ETS,Recovered demand,0.5,0.0688
+Recorded sales (lower bound),0.7,3,ETS,Recorded sales,0.7,0.0708
+Recorded sales (lower bound),0.7,3,LightGBM,Recovered demand,0.6,0.0574
+Recorded sales (lower bound),0.7,3,LightGBM,Recorded sales,0.8,0.0585

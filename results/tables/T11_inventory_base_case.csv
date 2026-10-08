@@ -1,0 +1,17 @@
+truth,unit_cost,critical_ratio,shelf_life_days,model,trained_on,fill_rate,waste_pct_of_orders,lost_sales_pct_of_demand,stockout_day_rate,cost_per_unit_demand
+Recovered demand,0.5,0.5,1,Seasonal naive,Recovered demand,0.8036,0.2022,0.1964,0.4746,0.2
+Recovered demand,0.5,0.5,1,Seasonal naive,Recorded sales,0.7173,0.1478,0.2827,0.569,0.2036
+Recovered demand,0.5,0.5,1,Empirical-28,Recovered demand,0.7351,0.1166,0.2649,0.567,0.1809
+Recovered demand,0.5,0.5,1,Empirical-28,Recorded sales,0.6674,0.0901,0.3326,0.649,0.1993
+Recovered demand,0.5,0.5,1,ETS,Recovered demand,0.8257,0.1576,0.1743,0.4775,0.1644
+Recovered demand,0.5,0.5,1,ETS,Recorded sales,0.7314,0.1085,0.2686,0.6224,0.1788
+Recovered demand,0.5,0.5,1,LightGBM,Recovered demand,0.8096,0.1153,0.1904,0.5449,0.148
+Recovered demand,0.5,0.5,1,LightGBM,Recorded sales,0.7311,0.0824,0.2689,0.6562,0.1673
+Recorded sales (lower bound),0.5,0.5,1,Seasonal naive,Recovered demand,0.8645,0.2796,0.1355,0.364,0.2355
+Recorded sales (lower bound),0.5,0.5,1,Seasonal naive,Recorded sales,0.7922,0.21,0.2078,0.4545,0.2092
+Recorded sales (lower bound),0.5,0.5,1,Empirical-28,Recovered demand,0.8046,0.1883,0.1954,0.4536,0.191
+Recorded sales (lower bound),0.5,0.5,1,Empirical-28,Recorded sales,0.7418,0.1511,0.2582,0.5345,0.1951
+Recorded sales (lower bound),0.5,0.5,1,ETS,Recovered demand,0.8908,0.2371,0.1092,0.3621,0.193
+Recorded sales (lower bound),0.5,0.5,1,ETS,Recorded sales,0.8105,0.1706,0.1895,0.5157,0.1781
+Recorded sales (lower bound),0.5,0.5,1,LightGBM,Recovered demand,0.8804,0.1924,0.1196,0.4209,0.1647
+Recorded sales (lower bound),0.5,0.5,1,LightGBM,Recorded sales,0.8142,0.1422,0.1858,0.5438,0.1604

@@ -1,0 +1,19 @@
+Statistic,Value
+Rows (store-product-days),4500000
+Store-product series,50000
+Stores,898
+Products (SKUs),865
+Cities,18
+First-level categories,32
+Second-level categories,84
+Third-level categories,233
+Start date,2024-03-28
+End date,2024-06-25
+Days,90
+Zero-sales days (%),4.46
+Open hours out of stock (%),19.88
+Days with any stockout (%),44.27
+Days fully out of stock 06-22 (%),4.04
+Days with discount < 1.0 (%),51.53
+Holiday days (%),34.44
+Activity/promotion days (%),37.84

@@ -1,0 +1,12 @@
+# Python 3.10 or newer
+numpy>=1.26
+pandas>=2.1
+pyarrow>=14
+matplotlib>=3.8
+datasets>=2.18
+scikit-learn>=1.4
+lightgbm>=4.3
+statsmodels>=0.14
+statsforecast>=1.7
+scipy>=1.11
+shap>=0.45

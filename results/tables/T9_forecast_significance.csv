@@ -1,0 +1,11 @@
+eval_set,model_A,model_B,series,mean_loss_A,mean_loss_B,share_series_A_better,wilcoxon_p
+A: all days vs recovered demand,LightGBM (Recovered demand),LightGBM (Recorded sales),50000,0.15607907587045566,0.18436917530239763,0.71988,0.0
+A: all days vs recovered demand,ETS (Recovered demand),ETS (Recorded sales),50000,0.1759488565666886,0.19566625086151326,0.60442,0.0
+A: all days vs recovered demand,Empirical-28 (Recovered demand),Empirical-28 (Recorded sales),50000,0.19207774563991908,0.21908068980062556,0.70562,0.0
+A: all days vs recovered demand,LightGBM (Recovered demand),ETS (Recovered demand),50000,0.15607907587045566,0.1759488565666886,0.68,0.0
+A: all days vs recovered demand,LightGBM (Recovered demand),Empirical-28 (Recovered demand),50000,0.15607907587045566,0.19207774563991908,0.74052,0.0
+B: stockout-free days vs recorded sales,LightGBM (Recovered demand),LightGBM (Recorded sales),50000,0.1275772618248626,0.1351742190617395,0.44512,1.8437886961059584e-18
+B: stockout-free days vs recorded sales,ETS (Recovered demand),ETS (Recorded sales),50000,0.15069999367222023,0.1492141146070941,0.38388,0.0
+B: stockout-free days vs recorded sales,Empirical-28 (Recovered demand),Empirical-28 (Recorded sales),50000,0.1533862870148916,0.16482979734190478,0.46912,2.955195634165317e-16
+B: stockout-free days vs recorded sales,LightGBM (Recovered demand),ETS (Recovered demand),50000,0.1275772618248626,0.15069999367222023,0.70094,0.0
+B: stockout-free days vs recorded sales,LightGBM (Recovered demand),Empirical-28 (Recovered demand),50000,0.1275772618248626,0.1533862870148916,0.65484,0.0
