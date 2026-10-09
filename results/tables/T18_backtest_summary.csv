@@ -1,0 +1,7 @@
+eval_set,model,mean_sPL_recorded,mean_sPL_recovered,mean_change_pct,weeks_recovered_better,weeks,mean_share_series_recovered_better
+A,ETS,0.1444,0.1306,-9.5481,4,4,
+A,Empirical-28,0.1541,0.1373,-10.8664,4,4,
+A,LightGBM,0.1345,0.1173,-12.711,4,4,0.6958
+B,ETS,0.128,0.1339,4.5525,1,4,
+B,Empirical-28,0.1334,0.1307,-2.0538,2,4,
+B,LightGBM,0.1131,0.1128,-0.3404,2,4,0.4273

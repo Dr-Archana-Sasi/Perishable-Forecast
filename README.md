@@ -49,7 +49,9 @@ Colab CPU runtime (2 cores, 12 GB RAM).
 | 3. Demand recovery | `python src/recover_demand.py` | ~3 min | `data/processed/panel_recovered.parquet`, Tables T5–T7, Figures F6–F7 |
 | 4. Forecasting | `python src/forecast.py` | ~65 min | `data/processed/forecasts_eval.parquet`, Tables T8–T10b, Figure F8 |
 | 5. Inventory simulation | `python src/inventory_sim.py` | ~1 min | Tables T11–T14, Figures F9–F10 |
-| 6. Record software versions | `python src/record_environment.py` | seconds | `results/environment.txt` |
+| 6. Recovery robustness | `python src/recovery_robustness.py` | ~2 min | Tables T15–T16, Figure F11 |
+| 7. Rolling-origin backtest | `python src/backtest.py` | ~2.5 h (resumable) | Tables T17–T19, Figure F12 |
+| 8. Record software versions | `python src/record_environment.py` | seconds | `results/environment.txt` |
 
 `src/eda.py`, `src/recover_demand.py` and `src/forecast.py` accept
 `--sample-series N` for a quick check on a random subset of N series. The
@@ -75,7 +77,9 @@ deterministic mode. The versions used for the paper are in `results/environment.
 | T12 | Inventory results for all unit costs, shelf lives and demand assumptions |
 | T13 | Paired Wilcoxon tests of inventory cost across series |
 | T14 | Lowest cost per forecast set with its best ordering level |
-| F1–F10 | Figures as listed in the scripts' headers |
+| T15, T16 | Recovery compared with alternative methods; sensitivity to k, tau and window |
+| T17–T19 | Rolling-origin backtest over four test weeks: accuracy, summary, replenishment |
+| F1–F12 | Figures as listed in the scripts' headers |
 
 ## Repository structure
 
@@ -88,7 +92,9 @@ src/
   recover_demand.py     step 3
   forecast.py           step 4
   inventory_sim.py      step 5
-  record_environment.py step 6
+  recovery_robustness.py step 6
+  backtest.py           step 7
+  record_environment.py step 8
 notebooks/
   run_pipeline.ipynb    runs all steps in Google Colab
 data/                   created when the data is downloaded (not tracked)

@@ -1,0 +1,9 @@
+eval_set,origin_day,best_forecast
+A,69,LightGBM / Recovered demand
+A,76,LightGBM / Recovered demand
+A,83,LightGBM / Recovered demand
+A,90,LightGBM / Recovered demand
+B,69,LightGBM / Recorded sales
+B,76,LightGBM / Recorded sales
+B,83,LightGBM / Recovered demand
+B,90,LightGBM / Recovered demand

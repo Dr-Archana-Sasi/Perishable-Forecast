@@ -1,0 +1,16 @@
+parameter,value,is_default,WAPE,bias,share_recovered_by_projection
+k,0.0,False,0.2103,-0.0095,0.8327
+k,1.0,False,0.2102,-0.0095,0.8331
+k,5.0,False,0.21,-0.0098,0.834
+k,10.0,True,0.2099,-0.0099,0.835
+k,20.0,False,0.21,-0.01,0.8362
+k,50.0,False,0.2108,-0.01,0.8377
+k,100.0,False,0.2116,-0.0099,0.8382
+tau,0.1,False,0.2257,-0.0059,0.9026
+tau,0.2,False,0.217,-0.0074,0.8756
+tau,0.3,True,0.2099,-0.0099,0.835
+tau,0.4,False,0.2046,-0.0132,0.7722
+tau,0.5,False,0.2021,-0.0166,0.6842
+fallback_half_window_days,7.0,False,0.2113,-0.009,0.835
+fallback_half_window_days,14.0,True,0.2099,-0.0099,0.835
+fallback_half_window_days,28.0,False,0.2105,-0.0112,0.835

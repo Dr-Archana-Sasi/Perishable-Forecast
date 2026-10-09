@@ -4,7 +4,7 @@ title: "Stockout-Aware Probabilistic Forecasting and Replenishment for Perishabl
 authors:
   - family-names: "Sasi"
     given-names: "Archana"
-version: 1.0.0
+version: 1.1.0
 date-released: 2026-10-14
 license: MIT
 repository-code: "https://github.com/Dr-Archana-Sasi/perishable-forecast"

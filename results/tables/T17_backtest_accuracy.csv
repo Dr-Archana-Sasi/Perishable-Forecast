@@ -1,0 +1,65 @@
+test_week,origin_day,eval_set,model,trained_on,rows,WAPE,bias,scaled_pinball,coverage_80
+05 Jun–11 Jun,69,A,ETS,Recovered demand,350000,0.3741,-0.0171,0.1403,0.7914
+05 Jun–11 Jun,69,B,ETS,Recovered demand,206229,0.4049,0.1683,0.1475,0.8327
+05 Jun–11 Jun,69,A,ETS,Recorded sales,350000,0.3926,-0.1696,0.151,0.7027
+05 Jun–11 Jun,69,B,ETS,Recorded sales,206229,0.372,0.0083,0.137,0.7948
+05 Jun–11 Jun,69,A,Empirical-28,Recovered demand,350000,0.3615,-0.0952,0.1373,0.728
+05 Jun–11 Jun,69,B,Empirical-28,Recovered demand,206229,0.3596,0.07,0.1354,0.7632
+05 Jun–11 Jun,69,A,Empirical-28,Recorded sales,350000,0.3843,-0.2003,0.1502,0.6785
+05 Jun–11 Jun,69,B,Empirical-28,Recorded sales,206229,0.3544,-0.0435,0.133,0.7717
+05 Jun–11 Jun,69,A,LightGBM,Recovered demand,350000,0.3341,-0.0635,0.1254,0.7206
+05 Jun–11 Jun,69,B,LightGBM,Recovered demand,206229,0.3368,0.098,0.1248,0.7528
+05 Jun–11 Jun,69,A,LightGBM,Recorded sales,350000,0.3552,-0.1648,0.1364,0.6604
+05 Jun–11 Jun,69,B,LightGBM,Recorded sales,206229,0.3265,-0.0026,0.1193,0.7612
+05 Jun–11 Jun,69,A,Seasonal naive,Recovered demand,350000,0.4387,-0.0363,,
+05 Jun–11 Jun,69,B,Seasonal naive,Recovered demand,206229,0.4778,0.1548,,
+05 Jun–11 Jun,69,A,Seasonal naive,Recorded sales,350000,0.4384,-0.1701,,
+05 Jun–11 Jun,69,B,Seasonal naive,Recorded sales,206229,0.4346,0.0123,,
+12 Jun–18 Jun,76,A,ETS,Recovered demand,350000,0.3421,-0.0113,0.1283,0.811
+12 Jun–18 Jun,76,B,ETS,Recovered demand,196407,0.3816,0.1587,0.1392,0.8499
+12 Jun–18 Jun,76,A,ETS,Recorded sales,350000,0.3601,-0.1584,0.1377,0.7169
+12 Jun–18 Jun,76,B,ETS,Recorded sales,196407,0.3469,0.0117,0.1275,0.8119
+12 Jun–18 Jun,76,A,Empirical-28,Recovered demand,350000,0.3599,-0.1133,0.1359,0.7256
+12 Jun–18 Jun,76,B,Empirical-28,Recovered demand,196407,0.363,0.0517,0.1359,0.7617
+12 Jun–18 Jun,76,A,Empirical-28,Recorded sales,350000,0.3875,-0.2108,0.1504,0.6631
+12 Jun–18 Jun,76,B,Empirical-28,Recorded sales,196407,0.3631,-0.0494,0.1348,0.7651
+12 Jun–18 Jun,76,A,LightGBM,Recovered demand,350000,0.31,-0.0874,0.1158,0.7262
+12 Jun–18 Jun,76,B,LightGBM,Recovered demand,196407,0.3119,0.0524,0.1144,0.7612
+12 Jun–18 Jun,76,A,LightGBM,Recorded sales,350000,0.3315,-0.1815,0.1273,0.6873
+12 Jun–18 Jun,76,B,LightGBM,Recorded sales,196407,0.301,-0.0314,0.1102,0.7952
+12 Jun–18 Jun,76,A,Seasonal naive,Recovered demand,350000,0.4318,-0.0237,,
+12 Jun–18 Jun,76,B,Seasonal naive,Recovered demand,196407,0.4783,0.15,,
+12 Jun–18 Jun,76,A,Seasonal naive,Recorded sales,350000,0.4295,-0.1807,,
+12 Jun–18 Jun,76,B,Seasonal naive,Recorded sales,196407,0.4282,-0.0136,,
+19 Jun–25 Jun,83,A,ETS,Recovered demand,350000,0.3419,-0.1039,0.13,0.7739
+19 Jun–25 Jun,83,B,ETS,Recovered demand,198987,0.3405,0.0477,0.1262,0.8457
+19 Jun–25 Jun,83,A,ETS,Recorded sales,350000,0.3883,-0.2507,0.1514,0.6499
+19 Jun–25 Jun,83,B,ETS,Recorded sales,198987,0.3433,-0.1006,0.1276,0.7763
+19 Jun–25 Jun,83,A,Empirical-28,Recovered demand,350000,0.3702,-0.2028,0.1408,0.7076
+19 Jun–25 Jun,83,B,Empirical-28,Recovered demand,198987,0.3401,-0.0579,0.1266,0.7781
+19 Jun–25 Jun,83,A,Empirical-28,Recorded sales,350000,0.4091,-0.2936,0.1617,0.6124
+19 Jun–25 Jun,83,B,Empirical-28,Recorded sales,198987,0.3582,-0.1545,0.1344,0.738
+19 Jun–25 Jun,83,A,LightGBM,Recovered demand,350000,0.3155,-0.15,0.1181,0.7175
+19 Jun–25 Jun,83,B,LightGBM,Recovered demand,198987,0.2938,-0.0213,0.1085,0.7853
+19 Jun–25 Jun,83,A,LightGBM,Recorded sales,350000,0.3647,-0.2635,0.1447,0.5894
+19 Jun–25 Jun,83,B,LightGBM,Recorded sales,198987,0.3081,-0.1277,0.1153,0.7276
+19 Jun–25 Jun,83,A,Seasonal naive,Recovered demand,350000,0.4028,-0.1101,,
+19 Jun–25 Jun,83,B,Seasonal naive,Recovered demand,198987,0.414,0.0491,,
+19 Jun–25 Jun,83,A,Seasonal naive,Recorded sales,350000,0.4312,-0.2612,,
+19 Jun–25 Jun,83,B,Seasonal naive,Recorded sales,198987,0.3976,-0.1044,,
+26 Jun–02 Jul,90,A,ETS,Recovered demand,350000,0.3289,-0.0198,0.1238,0.7883
+26 Jun–02 Jul,90,B,ETS,Recovered demand,206562,0.3336,0.1134,0.1229,0.837
+26 Jun–02 Jul,90,A,ETS,Recorded sales,350000,0.3576,-0.1797,0.1377,0.6812
+26 Jun–02 Jul,90,B,ETS,Recorded sales,206562,0.3245,-0.0425,0.1199,0.7773
+26 Jun–02 Jul,90,A,Empirical-28,Recovered demand,350000,0.3619,-0.1679,0.1351,0.728
+26 Jun–02 Jul,90,B,Empirical-28,Recovered demand,206562,0.3397,-0.0419,0.1248,0.7806
+26 Jun–02 Jul,90,A,Empirical-28,Recorded sales,350000,0.3986,-0.2665,0.1541,0.641
+26 Jun–02 Jul,90,B,Empirical-28,Recorded sales,206562,0.3555,-0.1446,0.1315,0.7466
+26 Jun–02 Jul,90,A,LightGBM,Recovered demand,350000,0.296,-0.0849,0.1098,0.7394
+26 Jun–02 Jul,90,B,LightGBM,Recovered demand,206562,0.2818,0.035,0.1033,0.7824
+26 Jun–02 Jul,90,A,LightGBM,Recorded sales,350000,0.3345,-0.2033,0.1297,0.6243
+26 Jun–02 Jul,90,B,LightGBM,Recorded sales,206562,0.291,-0.0774,0.1075,0.7318
+26 Jun–02 Jul,90,A,Seasonal naive,Recovered demand,350000,0.4,0.0073,,
+26 Jun–02 Jul,90,B,Seasonal naive,Recovered demand,206562,0.4232,0.1578,,
+26 Jun–02 Jul,90,A,Seasonal naive,Recorded sales,350000,0.4071,-0.1583,,
+26 Jun–02 Jul,90,B,Seasonal naive,Recorded sales,206562,0.3891,-0.0077,,
