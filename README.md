@@ -112,3 +112,9 @@ See `CITATION.cff`. Please also cite the dataset:
 ## License
 
 Code: MIT (see `LICENSE`). Dataset: CC BY 4.0, by its authors.
+
+
+[![DOI](https://zenodo.org/badge/1408493099.svg)]
+(https://doi.org/10.5281/zenodo.23363093)
+
+
